@@ -1,0 +1,35 @@
+{
+  "pessoas": [
+    {
+      "id": "1",
+      "nome": "Kell",
+      "senha": "123"
+    },
+    {
+      "nome": "kell",
+      "senha": "123",
+      "id": "qhEueemdYpw"
+    },
+    {
+      "nome": "senai",
+      "senha": "677",
+      "id": "-DC_02TBudE"
+    },
+    {
+      "nome": "mateus",
+      "senha": "",
+      "id": "UuKsYRNL3nc"
+    },
+    {
+      "nome": "mateus",
+      "senha": "1234567",
+      "id": "zvMoEkPs1w0"
+    },
+    {
+      "nome": "quesia",
+      "senha": "246",
+      "id": "xKJKYA0w_Fw"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
